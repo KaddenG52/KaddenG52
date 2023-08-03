@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Kadden G and i'm currently studying at URI majoring in Computer Science
+I'm currently working on earning my Bachelors Degree in Computer Science
+Fun Fact: I ride Motorcycles
+You can reach me at KaddenG52@uri.edu
 
 <!--
 **KaddenG52/KaddenG52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
